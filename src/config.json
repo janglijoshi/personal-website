@@ -1,20 +1,20 @@
 {
-    "git_user": "maxi-schaefer",
-    "discord_user": "1106596197306744882",
-    "city": "Ebersberg",
+    "git_user": "janglijoshi",
+    "discord_user": "927074249968078858",
+    "city": "Delhi",
     "projects": [
         {
             "id": 0,
-            "name": "Vortex",
+            "name": "Lazy s",
             "language": "java",
-            "url": "https://github.com/maxi-schaefer/vortex",
+            "url": "",
             "cover": "./images/vortex.png"
         },
         {
             "id": 1,
-            "name": "Smaug Reverse Shell",
-            "language": "python",
-            "url": "https://github.com/maxi-schaefer/Smaug-Reverse-Shell",
+            "name": "Personal WEBSITE",
+            "language": "ReactJs",
+            "url": "https://github.com/janglijoshi/personal-website",
             "cover": "./images/smaug.png"
         },
         {
